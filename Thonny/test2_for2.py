@@ -1,4 +1,5 @@
 seq = ("AGCTTTCGCCTCAAAGA");
+#konwertowanie sekwencji na listę, w której każda litera ma swój indeks od 0 do n-1
 lst=list(seq)
 t1=seq[0];
 t2=seq[1];
