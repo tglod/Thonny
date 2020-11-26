@@ -18,7 +18,7 @@ for i in range(0,len(dna)):
             temp+="C"
         elif x=="T":
             temp+="G"
-        print(x, temp)
+        #print(x, temp)
     rna[i]=temp
     
 print(rna)
